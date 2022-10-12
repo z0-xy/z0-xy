@@ -1,16 +1,8 @@
 <h1 align="center">Hi 👋, I'm Diana</h1>
 <h3 align="center">A passionate Data Scientist from Russia</h3>
-<style>
-   .thumb img  {
-    border: 2px solid #55c5e9; /* Рамка вокруг фотографии */
-    padding: 15px; /* Расстояние от картинки до рамки */
-    background: #666; /* Цвет фона */
-    margin-right: 10px; /* Отступ справа */
-    margin-bottom: 10px; /* Отступ снизу */
-   }
-  </style>
+
 <h3 align="left">Connect with me:</h3>
-<p class="thumb">
+<p align="center">
   <a href="https://t.me/z0_xy" target="_blank" rel="noreferrer"> 
     <img src="https://steemitimages.com/p/3W72119s5BjWPGGUiZ9pqnZoj8JHYxCCp9dtn2QVeutFMyS7USjQzFhQBankXumkpSBD1yM1k24zdp3M4hxygjV1CEEMZAfGnBdLVoHgQ94F6JaFe3UCw8?format=match&mode=fit" margin-left=55px alt="telegram" width="41" height="40"/>  
     </a>

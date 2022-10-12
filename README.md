@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/z0_xy" target="_blank" rel="noreferrer"> <img src="https://steemitimages.com/p/3W72119s5BjWPGGUiZ9pqnZoj8JHYxCCp9dtn2QVeutFMyS7USjQzFhQBankXumkpSBD1yM1k24zdp3M4hxygjV1CEEMZAfGnBdLVoHgQ94F6JaFe3UCw8?format=match&mode=fit" alt="telegram" width="43" height="40"/> </a>
-<a href="https://t.me/z0_xy" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG11.png" alt="telegram" width="60" height="40"/> </a>
+<a href="https://t.me/z0_xy" target="_blank" rel="noreferrer"> <img src="https://steemitimages.com/p/3W72119s5BjWPGGUiZ9pqnZoj8JHYxCCp9dtn2QVeutFMyS7USjQzFhQBankXumkpSBD1yM1k24zdp3M4hxygjV1CEEMZAfGnBdLVoHgQ94F6JaFe3UCw8?format=match&mode=fit" alt="telegram" width="41" height="40"/> </a>
+<a href="marvanovadiana24@gmail.com" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG11.png" alt="telegram" width="60" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

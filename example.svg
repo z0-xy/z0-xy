@@ -6,11 +6,11 @@
                 font-family:
 						system-ui,
 						-apple-system,
-						'Courier New',
+						Courier,
 <!-- 						Courier New, -->
 <!-- 						Helvetica, -->
 <!-- 						Arial, -->
-						sans-serif,
+<!-- 						sans-serif, -->
 <!-- 						'Apple Color Emoji',
 						'Segoe UI Emoji'; -->
                 color: red;

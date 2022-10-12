@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://t.me/z0_xy" target="_blank" rel="noreferrer"> <img src="https://moscownavigator.com/wp-content/uploads/2021/05/telegram-app-icon.jpg" alt="linux" width="40" height="40"/> </a>
+ <a href="https://t.me/z0_xy" target="_blank" rel="noreferrer"> <img src="https://steemitimages.com/p/3W72119s5BjWPGGUiZ9pqnZoj8JHYxCCp9dtn2QVeutFMyS7USjQzFhQBankXumkpSBD1yM1k24zdp3M4hxygjV1CEEMZAfGnBdLVoHgQ94F6JaFe3UCw8?format=match&mode=fit" alt="telegram" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

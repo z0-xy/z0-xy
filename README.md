@@ -2,7 +2,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Diana</h1> -->
 <!-- <h3 align="center">A passionate Data Scientist from Russia</h3> -->
 <p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=498&height=82&lines=Hi+%F0%9F%91%8B%2C+I'm+Diana;A+passionate+Data+Scientist+from+Russia" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=250&multiline=true&width=598&height=82&lines=Hi+%F0%9F%91%8B%2C+I'm+Diana;A+passionate+Data+Scientist+from+Russia" alt="Typing SVG" /></a>
  </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

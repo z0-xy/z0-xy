@@ -1,7 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&multiline=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Diana;A+passionate+Data+Scientist+from+Russia)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&multiline=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Diana;A+passionate+Data+Scientist+from+Russia)](https://git.io/typing-svg) -->
 <!-- <h1 align="center">Hi 👋, I'm Diana</h1> -->
 <!-- <h3 align="center">A passionate Data Scientist from Russia</h3> -->
-
+<p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=498&height=82&lines=Hi+%F0%9F%91%8B%2C+I'm+Diana;A+passionate+Data+Scientist+from+Russia" alt="Typing SVG" /></a>
+ </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://t.me/z0_xy" target="_blank" rel="noreferrer"> 

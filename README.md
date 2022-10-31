@@ -23,3 +23,5 @@
 <p align="right"> 
 <img src="https://komarev.com/ghpvc/?username=z0-xy&style=flat-square&color=blue" alt=""/>
 </p> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z0-xy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

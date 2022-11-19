@@ -29,9 +29,9 @@
   <img alt="Light" src="https://readme-jokes.vercel.app/api" width="30%">
 &nbsp; &nbsp; &nbsp; &nbsp;
  
-  <a href="https://www.linkedin.com/in/diana-marvanova/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.linkedin.com/in/diana-marvanova/" target="_blank" rel="noreferrer">
    <img alt="Dark" src="https://github.com/z0-xy/z0-xy/blob/main/link.png" width="30%">
- </a>
+ </a> -->
 </p>
 <!-- 
 <p align="left">

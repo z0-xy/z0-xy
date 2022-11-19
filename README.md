@@ -25,13 +25,11 @@
 ![](https://readme-jokes.vercel.app/api)  |  ![](https://github.com/z0-xy/z0-xy/blob/main/link.png)
  -->
 <p >
- <p align="left">
+
   <img alt="Light" src="https://readme-jokes.vercel.app/api" width="30%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  </p>
-  <p align="right">
+ 
   <img alt="Dark" src="https://github.com/z0-xy/z0-xy/blob/main/link.png" width="30%">
- </p>
 </p>
 <!-- 
 <p align="left">

@@ -24,8 +24,14 @@
 :-------------------------:|:-------------------------:
 ![](https://readme-jokes.vercel.app/api)  |  ![](https://github.com/z0-xy/z0-xy/blob/main/link.png)
 
+<p align="center">
+  <img alt="Light" src="https://readme-jokes.vercel.app/api" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/z0-xy/z0-xy/blob/main/link.png" width="45%">
+</p>
 
-<p align="left"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
-<p align="right"> 
+<p align="left">
+ <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+ 
 <img src="https://komarev.com/ghpvc/?username=z0-xy&style=flat-square&color=blue" alt=""/>
 </p> 

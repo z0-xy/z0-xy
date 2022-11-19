@@ -24,12 +24,3 @@
 <p align="right"> 
 <img src="https://komarev.com/ghpvc/?username=z0-xy&style=flat-square&color=blue" alt=""/>
 </p> 
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z0-xy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-
-
-
-<div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="diana-marvanova" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/diana-marvanova?trk=profile-badge">Diana Marvanova</a></div>
-              
